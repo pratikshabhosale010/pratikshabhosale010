@@ -89,12 +89,7 @@ Hello! I'm a passionate and curious Data Science student currently building my k
   - Python: Matplotlib, Seaborn, Plotly
   - Power BI / Tableau dashboards
 
-### 🔹 3. Machine Learning (Basics)
-- Supervised Learning: Linear Regression, Logistic Regression, Decision Trees
-- Unsupervised Learning: K-Means Clustering, PCA
-- Model Evaluation: Accuracy, Precision, Recall, F1 Score
-- Train-test split, Cross-validation
-- Feature Engineering
+
 
 ### 🔹 4. Tools & Platforms
 - Jupyter Notebook / Google Colab
@@ -108,17 +103,6 @@ Hello! I'm a passionate and curious Data Science student currently building my k
 
 ---
 
-## 📁 Mini Projects / Practice Work
-
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing Projects
-- Visualization Dashboards (Power BI/Tableau)
-- Beginner Machine Learning Models
-- SQL Practice Queries
-
-👉 Check out my repositories to explore what I've been working on!
-
----
 
 ## 🚀 Still Learning...
 I’m continuously learning and growing as a data science student. I'm exploring more advanced ML models, real-world datasets, and deploying data apps soon.
