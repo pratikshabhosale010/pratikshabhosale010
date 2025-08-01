@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data storytelling with Power BI**
 
-- 📫 How to reach me **pratikshabhosale010@gmail.com**
+- 📫 How to reach me **pratikshabhosale010@gmail.com** 
 
 - 📄 Know about my experiences ["C:\Users\prati\Downloads\RESUME-PRATIKSHA BHOSALE.pdf"]("C:\Users\prati\Downloads\RESUME-PRATIKSHA BHOSALE.pdf")
 
